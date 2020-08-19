@@ -36,3 +36,9 @@ container h1
 {
     font-size: 20px ;
 }
+
+#cabecera #logo {
+    width: 60px;
+    vertical-align: middle;
+
+}
