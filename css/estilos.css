@@ -44,3 +44,9 @@ container h1
     text-align: center;
     padding: 0.5em;
 }
+
+#cabecera #logo {
+    width: 60px;
+    vertical-align: middle;
+
+}
